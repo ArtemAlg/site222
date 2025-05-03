@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    background-image: linear-gradient(red,darkred);
+}
+
+footer {
+    background-image: linear-gradient(darkred,red);
+}
+
+header {
+     background-image: linear-gradient(red,darkred);
+}
+
+a {
+    color: yellow;
+    margin: 5px;
+    text-decoration:none;
+}
